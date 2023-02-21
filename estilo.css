@@ -9,8 +9,9 @@ body{
 }
 
 #principal img{
-    width: 100%;
+	width: 100%;
 }
+
 
 #menu{
 	background: #c5c5b2;
@@ -46,9 +47,5 @@ p {
 }
 
 .foto{
-	border: 7px solid #828271;
-	/*border-color: #c5c5b2;
-	border-width: 7px;
-	border-style: solid;
-    align-self: center;*/
+	border: 5px solid #828271;
 }
